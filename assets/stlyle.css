@@ -1,13 +1,13 @@
 @import url('https://fonts.googleapis.com/css2?family=Grandstander:ital,wght@0,100..900;1,100..900&display=swap');
 
 :root{
-  --text-color: #000000;
-  --card-front-color: #144480;
-  --card-back-color: #BC9E3E;
+  --text-color: #ffffff;
+  --card-front-color: #8fc9e0;
+  --card-back-color: #ffffff;
 }
 
 body {
-  background: url(img/fundoverde.webp);
+  background: url(img/fundosite.jpg);
   font-family: Grandstander;
 }
 .cartao__conteudo {
